@@ -1,0 +1,143 @@
+body {
+    margin:0;
+}
+/* :root {
+    --color-gradient: linear-gradient( 135deg, rgb(0, 97, 242) 0%, rgb(105, 0, 199) 100% );
+    --color-gallery:whitesmoke;
+
+}
+.gradient {
+    background:var(--color-gradient);
+
+}
+
+.gallery {
+    background:var(--color-gallery);
+
+}
+*/
+
+.gradient {
+    background: linear-gradient( 135deg, rgb(0, 97, 242) 0%, rgb(105, 0, 199) 100% );
+}
+
+
+/* background color gallery section */
+.gallery {
+    background:whitesmoke;
+}
+
+
+
+
+/* start shape divider bottom for main section  */
+.custom-shape-divider-bottom-1656599740 {
+   
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1656599740 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 79px;
+}
+
+.custom-shape-divider-bottom-1656599740 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/*End of shape divider o1 for bottom */
+
+/* start shape divider top for intro section  */
+.custom-shape-divider-top-1656600564 {
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1656600564 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 69px;
+}
+
+.custom-shape-divider-top-1656600564 .shape-fill {
+    fill: #FFFFFF;
+}
+/* End of shape divider 2 for top */
+
+/* start shape divider bottom for intro section  */
+.custom-shape-divider-bottom-1656600461 {
+    
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1656600461 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 61px;
+}
+
+.custom-shape-divider-bottom-1656600461 .shape-fill {
+    fill: #FFFFFF;
+}/* End of  shape divider 3 for bottom */
+
+/* start shape divider top for coding section  */
+.custom-shape-divider-top-1656600564 {
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1656600564 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 69px;
+}
+
+.custom-shape-divider-top-1656600564 .shape-fill {
+    fill: #FFFFFF;
+}
+/* End shape divider top for coding section  */
+
+/* start shape divider bottom for coding  section  */
+.custom-shape-divider-bottom-1656600461 {
+    
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1656600461 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 58px;
+}
+
+.custom-shape-divider-bottom-1656600461 .shape-fill {
+    fill: #FFFFFF;
+}/* End of  shape divider bottom  for coding section */
